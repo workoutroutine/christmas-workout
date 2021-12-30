@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://workoutroutine.github.io/christmas-workout/sitemapx.xml
